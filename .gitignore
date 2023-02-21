@@ -1,0 +1,4 @@
+# misc
+.env
+yarn-error.log
+api/.env
